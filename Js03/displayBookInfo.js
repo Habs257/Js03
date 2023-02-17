@@ -1,7 +1,7 @@
 const Book = {
     titre: "L'Enfant Noir de Camara Laye ",
     auteur: "Camara Laye",
-    annee:1953
+    année:1953
 };
 
 function printBookInfo(Book){
