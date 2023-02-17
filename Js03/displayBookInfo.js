@@ -7,7 +7,7 @@ const Book = {
 function printBookInfo(Book){
 console.log("Titre: L'Enfant Noir");
 console.log('Auteur: Camara Laye');
-console.log('annee: 1953');
+console.log('année: 1953');
 }
 
 printBookInfo(Book);
