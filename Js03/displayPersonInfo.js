@@ -4,8 +4,8 @@ const person = {
 };
 
 function printPersonInfo(person){
-    console.log('nom: Mariam');
-    console.log('age: 30');
+    console.log(person.nom);
+    console.log(person.age);
 }
 
 printPersonInfo(person);
